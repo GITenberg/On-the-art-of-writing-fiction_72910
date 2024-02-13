@@ -1,0 +1,56 @@
+_repo: On-the-art-of-writing-fiction_72910
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Baring-Gould, S. (Sabine)
+    aliases:
+    - Baring-Gould, Sabine
+    - Gould, Sabine Baring
+    - Gould, S. Baring
+    birthdate: 1834
+    deathdate: 1924
+    gutenberg_agent_id: '1766'
+    url: http://www.gutenberg.org/2009/agents/1766
+    wikipedia: https://en.wikipedia.org/wiki/Sabine_Baring-Gould
+  - agent_name: Gray, Maxwell
+    gutenberg_agent_id: '56859'
+    url: http://www.gutenberg.org/2009/agents/56859
+  - agent_name: Macquoid, Katharine Sarah
+    gutenberg_agent_id: '56858'
+    url: http://www.gutenberg.org/2009/agents/56858
+  - agent_name: Norris, W. E. (William Edward)
+    alias: Norris, William Edward
+    birthdate: 1847
+    deathdate: 1925
+    gutenberg_agent_id: '6224'
+    url: http://www.gutenberg.org/2009/agents/6224
+    wikipedia: https://en.wikipedia.org/wiki/William_Edward_Norris
+  - agent_name: Walford, Lucy Bethia
+    aliases:
+    - Colquhoun, Lucy Bethia
+    - Walford, L. B. (Lucy Bethia)
+    birthdate: 1845
+    deathdate: 1915
+    gutenberg_agent_id: '35568'
+    url: http://www.gutenberg.org/2009/agents/35568
+description: ''
+gutenberg_issued: '2024-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72910'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/hvd.32044079637906
+pgterms:marc905: 20230508052948norris
+pgterms:marc906: '1894'
+pgterms:marc907: gb
+production_note: Bob Taylor, Aaron Adrignola and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aLondon :$bWells Gardner, Darton & co., $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: On the art of writing fiction
+url: http://www.gutenberg.org/ebooks/72910
