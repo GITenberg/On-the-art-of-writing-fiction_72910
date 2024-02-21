@@ -1,5 +1,8 @@
 _repo: On-the-art-of-writing-fiction_72910
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72910-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Baring-Gould, S. (Sabine)
@@ -34,6 +37,8 @@ creator:
     gutenberg_agent_id: '35568'
     url: http://www.gutenberg.org/2009/agents/35568
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72910#On-the-art-of-writing-fiction
 gutenberg_issued: '2024-02-09'
 gutenberg_type: Text
 identifiers:
